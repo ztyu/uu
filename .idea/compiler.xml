@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="arthas-testcase" />
+        <module name="arthas-memorycompiler" />
+        <module name="arthas-packaging" />
+        <module name="arthas-tunnel-client" />
+        <module name="arthas-demo" />
+        <module name="arthas-client" />
+        <module name="arthas-boot" />
+        <module name="arthas-core" />
+        <module name="arthas-agent" />
+        <module name="arthas-spy" />
+        <module name="arthas-common" />
+        <module name="arthas-site" />
+        <module name="arthas-tunnel-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="arthas-agent" target="1.6" />
+      <module name="arthas-all" target="1.6" />
+      <module name="arthas-boot" target="1.6" />
+      <module name="arthas-client" target="1.6" />
+      <module name="arthas-common" target="1.6" />
+      <module name="arthas-core" target="1.6" />
+      <module name="arthas-demo" target="1.6" />
+      <module name="arthas-memorycompiler" target="1.6" />
+      <module name="arthas-packaging" target="1.6" />
+      <module name="arthas-site" target="1.6" />
+      <module name="arthas-spy" target="1.6" />
+      <module name="arthas-testcase" target="1.6" />
+      <module name="arthas-tunnel-client" target="1.6" />
+      <module name="arthas-tunnel-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="3.2">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2" recursive="false" type="SOURCES" />
+  </library>
+</component>

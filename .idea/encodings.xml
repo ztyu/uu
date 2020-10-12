@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/arthas/arthas" charset="UTF-8" />
+    <file url="file://D:/arthas/arthas/agent" charset="UTF-8" />
+    <file url="file://D:/arthas/arthas/boot" charset="UTF-8" />
+    <file url="file://D:/arthas/arthas/client" charset="UTF-8" />
+    <file url="file://D:/arthas/arthas/common" charset="UTF-8" />
+    <file url="file://D:/arthas/arthas/core" charset="UTF-8" />
+    <file url="file://D:/arthas/arthas/demo" charset="UTF-8" />
+    <file url="file://D:/arthas/arthas/memorycompiler" charset="UTF-8" />
+    <file url="file://D:/arthas/arthas/packaging" charset="UTF-8" />
+    <file url="file://D:/arthas/arthas/site" charset="UTF-8" />
+    <file url="file://D:/arthas/arthas/spy" charset="UTF-8" />
+    <file url="file://D:/arthas/arthas/testcase" charset="UTF-8" />
+    <file url="file://D:/arthas/arthas/tunnel-client" charset="UTF-8" />
+    <file url="file://D:/arthas/arthas/tunnel-server" charset="UTF-8" />
+    <file url="file://F:/arthas/arthas" charset="UTF-8" />
+    <file url="file://F:/arthas/arthas/agent" charset="UTF-8" />
+    <file url="file://F:/arthas/arthas/boot" charset="UTF-8" />
+    <file url="file://F:/arthas/arthas/client" charset="UTF-8" />
+    <file url="file://F:/arthas/arthas/common" charset="UTF-8" />
+    <file url="file://F:/arthas/arthas/core" charset="UTF-8" />
+    <file url="file://F:/arthas/arthas/demo" charset="UTF-8" />
+    <file url="file://F:/arthas/arthas/packaging" charset="UTF-8" />
+    <file url="file://F:/arthas/arthas/site" charset="UTF-8" />
+    <file url="file://F:/arthas/arthas/spy" charset="UTF-8" />
+    <file url="file://F:/arthas/arthas/testcase" charset="UTF-8" />
+  </component>
+</project>

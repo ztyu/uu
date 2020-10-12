@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="commons-pool">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/commons-pool" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/commons-pool" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/commons-pool" recursive="false" />
+  </library>
+</component>

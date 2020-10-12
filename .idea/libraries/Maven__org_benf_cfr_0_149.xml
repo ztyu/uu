@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.benf:cfr:0.149">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/benf/cfr/0.149/cfr-0.149.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/benf/cfr/0.149/cfr-0.149-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/benf/cfr/0.149/cfr-0.149-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

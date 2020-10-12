@@ -1,0 +1,18 @@
+GET https://pay.ule.com/cashier/pay/merchant-pay-query!getMerchantPayMode.do
+
+<> 2019-05-23T030310.200.txt
+
+###
+
+GET https://pay.ule.com/cashier/pay/merchant-pay-query!getMerchantPayMode.do
+
+<> 2019-05-23T030227.200.txt
+
+###
+
+POST http://payment.http.beta.uledns.com/notify-http-service/notify/resetPayNotifyTask?param=12
+Accept: */*
+Cache-Control: no-cache
+
+###
+
